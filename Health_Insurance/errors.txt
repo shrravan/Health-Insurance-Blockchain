@@ -1,0 +1,155 @@
+Compiling ./contracts/ClinicalTrial.sol...
+Compiling ./contracts/Regulator.sol...
+
+Compilation warnings encountered:
+
+/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:56:18: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+      if(!found) throw;
+                 ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:61:31: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+      if(msg.sender != owner) throw;
+                              ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:65:4: Warning: Defining constructors as functions with the same name as the contract is deprecated. Use "constructor(...) { ... }" instead.
+   function Regulator() {
+   ^ (Relevant source part starts here and spans across multiple lines).
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:193:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:239:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:32:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:39:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:46:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:51:4: Warning: Defining constructors as functions with the same name as the contract is deprecated. Use "constructor(...) { ... }" instead.
+   function ClinicalTrial(address _regulator, address _cro, uint _proposalId, uint _startDate, uint _endDate, bytes32 _drugName, bytes _ipfsHash) {
+   ^ (Relevant source part starts here and spans across multiple lines).
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:119:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:67:7: Warning: Invoking events without "emit" prefix is deprecated.
+      RegulatoryContractDeployed(msg.sender,"Mined",block.timestamp);
+      ^------------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:82:7: Warning: Invoking events without "emit" prefix is deprecated.
+      ProposalSubmitted(msg.sender,proposal.drugName,block.timestamp);
+      ^-------------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:93:7: Warning: Invoking events without "emit" prefix is deprecated.
+      UploadTrialProtocol(msg.sender,tp.ipfsHash,block.timestamp);
+      ^---------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:154:12: Warning: Invoking events without "emit" prefix is deprecated.
+           ProposalAccepted(msg.sender,"transferred",value,tp.croAddr,block.timestamp);
+           ^-------------------------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:199:7: Warning: Invoking events without "emit" prefix is deprecated.
+      ProposalRejected (tp.croAddr, tp.drugName, _id);
+      ^---------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:211:7: Warning: Invoking events without "emit" prefix is deprecated.
+      AddCRO(msg.sender,cro.name,block.timestamp);
+      ^-----------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:220:16: Warning: Invoking events without "emit" prefix is deprecated.
+               UpdateCROStatus(msg.sender,"Approved",block.timestamp);
+               ^----------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:224:16: Warning: Invoking events without "emit" prefix is deprecated.
+               UpdateCROStatus(msg.sender,"Rejected",block.timestamp);
+               ^----------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:252:33: Warning: This function only accepts a single "bytes" argument. Please use "abi.encodePacked(...)" or a similar function to encode the data.
+         bytes32 prefixedHash = keccak256(prefix, hash);
+                                ^---------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:258:9: Warning: Invoking events without "emit" prefix is deprecated.
+        SigVerification(msg.sender,signer,block.timestamp);
+        ^------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:88:16: Warning: "sha3" has been deprecated in favour of "keccak256"
+      _ident = sha3(subjects[_subjectId]);
+               ^------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:88:16: Warning: This function only accepts a single "bytes" argument. Please use "abi.encodePacked(...)" or a similar function to encode the data.
+      _ident = sha3(subjects[_subjectId]);
+               ^------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:88:16: Warning: The provided argument of type bytes32 is not implicitly convertible to expected type bytes memory.
+      _ident = sha3(subjects[_subjectId]);
+               ^------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:112:7: Warning: Invoking events without "emit" prefix is deprecated.
+      AddSubject(msg.sender,_subject,block.timestamp);
+      ^---------------------------------------------^
+
+
+/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:56:18: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+      if(!found) throw;
+                 ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:61:31: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+      if(msg.sender != owner) throw;
+                              ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:65:4: Warning: Defining constructors as functions with the same name as the contract is deprecated. Use "constructor(...) { ... }" instead.
+   function Regulator() {
+   ^ (Relevant source part starts here and spans across multiple lines).
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:193:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:239:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:32:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:39:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:46:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:51:4: Warning: Defining constructors as functions with the same name as the contract is deprecated. Use "constructor(...) { ... }" instead.
+   function ClinicalTrial(address _regulator, address _cro, uint _proposalId, uint _startDate, uint _endDate, bytes32 _drugName, bytes _ipfsHash) {
+   ^ (Relevant source part starts here and spans across multiple lines).
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:119:10: Warning: "throw" is deprecated in favour of "revert()", "require()" and "assert()".
+         throw;
+         ^---^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:67:7: Warning: Invoking events without "emit" prefix is deprecated.
+      RegulatoryContractDeployed(msg.sender,"Mined",block.timestamp);
+      ^------------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:82:7: Warning: Invoking events without "emit" prefix is deprecated.
+      ProposalSubmitted(msg.sender,proposal.drugName,block.timestamp);
+      ^-------------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:93:7: Warning: Invoking events without "emit" prefix is deprecated.
+      UploadTrialProtocol(msg.sender,tp.ipfsHash,block.timestamp);
+      ^---------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:154:12: Warning: Invoking events without "emit" prefix is deprecated.
+           ProposalAccepted(msg.sender,"transferred",value,tp.croAddr,block.timestamp);
+           ^-------------------------------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:199:7: Warning: Invoking events without "emit" prefix is deprecated.
+      ProposalRejected (tp.croAddr, tp.drugName, _id);
+      ^---------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:211:7: Warning: Invoking events without "emit" prefix is deprecated.
+      AddCRO(msg.sender,cro.name,block.timestamp);
+      ^-----------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:220:16: Warning: Invoking events without "emit" prefix is deprecated.
+               UpdateCROStatus(msg.sender,"Approved",block.timestamp);
+               ^----------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:224:16: Warning: Invoking events without "emit" prefix is deprecated.
+               UpdateCROStatus(msg.sender,"Rejected",block.timestamp);
+               ^----------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:252:33: Warning: This function only accepts a single "bytes" argument. Please use "abi.encodePacked(...)" or a similar function to encode the data.
+         bytes32 prefixedHash = keccak256(prefix, hash);
+                                ^---------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:258:9: Warning: Invoking events without "emit" prefix is deprecated.
+        SigVerification(msg.sender,signer,block.timestamp);
+        ^------------------------------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/Regulator.sol:258:36: TypeError: Invalid type for argument in function call. Invalid implicit conversion from address to bytes32 requested.
+        SigVerification(msg.sender,signer,block.timestamp);
+                                   ^----^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:88:16: Warning: "sha3" has been deprecated in favour of "keccak256"
+      _ident = sha3(subjects[_subjectId]);
+               ^------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:88:16: Warning: This function only accepts a single "bytes" argument. Please use "abi.encodePacked(...)" or a similar function to encode the data.
+      _ident = sha3(subjects[_subjectId]);
+               ^------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:88:16: Warning: The provided argument of type bytes32 is not implicitly convertible to expected type bytes memory.
+      _ident = sha3(subjects[_subjectId]);
+               ^------------------------^
+,/home/shrravan/2ndMtech/Insurance/election-master/contracts/ClinicalTrial.sol:112:7: Warning: Invoking events without "emit" prefix is deprecated.
+      AddSubject(msg.sender,_subject,block.timestamp);
+      ^---------------------------------------------^
+[31mCompilation failed. See above.[39m

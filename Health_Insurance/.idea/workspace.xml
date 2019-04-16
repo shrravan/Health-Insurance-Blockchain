@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5ab250a-bb1b-4899-8952-af7faa559c30" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/Election.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/ClinicalTrial.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="596">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4200">
+              <caret line="280" column="3" selection-start-line="280" selection-start-column="3" selection-end-line="280" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="565" column="27" selection-start-line="565" selection-start-column="12" selection-end-line="565" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataBase/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="633">
+              <caret line="1652" column="1" lean-forward="true" selection-start-line="1652" selection-start-column="1" selection-end-line="1652" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contracts/Regulator.sol">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4354">
+              <caret line="272" column="26" selection-start-line="272" selection-start-column="9" selection-end-line="272" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#38374#38378#0" expanded="true" />
+                <element signature="e#38379#38386#0" expanded="true" />
+                <element signature="e#38404#38411#0" expanded="true" />
+                <element signature="e#38411#38415#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dataBase/Regulator.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Solidity Contract" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>limit_per_day</find>
+      <find>accept</find>
+      <find>PolicyNumbercheck1</find>
+      <find>testing in</find>
+      <find>submit_proposal_Emergency</find>
+      <find>data.data[0].DateOfBirth</find>
+      <find>I m from submit proposal Emergency</find>
+      <find>Emergency_Section</find>
+      <find>PolicyNumbercheck_customer</find>
+      <find>PolicyNumbercheck</find>
+      <find>customerData</find>
+      <find>trial proposal</find>
+      <find>submitproposal</find>
+      <find>diseases_diagonised</find>
+      <find>claim_Patient_cost_getProposalById</find>
+      <find>cost</find>
+      <find>cost_each_disease1</find>
+      <find>trialtextarea</find>
+      <find>submitProposalclaim1</find>
+      <find>Patient_Info_cost</find>
+      <find>submitted</find>
+      <find>regulatorAccount</find>
+      <find>submit proposal</find>
+      <find>Emergency claim</find>
+      <find>emergency</find>
+      <find>e_policy</find>
+      <find>e_policyNumber</find>
+      <find>customer In</find>
+      <find>signe</find>
+      <find>e_customerName1</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/contracts/Election.sol" />
+        <option value="$PROJECT_DIR$/contracts/Lottery.sol" />
+        <option value="$PROJECT_DIR$/contracts/lib.sol" />
+        <option value="$PROJECT_DIR$/contracts/Insurance.sol" />
+        <option value="$PROJECT_DIR$/dist/js/courses.html" />
+        <option value="$PROJECT_DIR$/dist/js/app1.js" />
+        <option value="/usr/lib/node_modules/truffle/build/cli.bundled.js" />
+        <option value="$PROJECT_DIR$/contracts/OraclizeContract.sol" />
+        <option value="$PROJECT_DIR$/contracts/Auction.sol" />
+        <option value="$PROJECT_DIR$/contracts/courses.sol" />
+        <option value="$PROJECT_DIR$/contracts/Mortgage.sol" />
+        <option value="$PROJECT_DIR$/dist/js/sairam.ts" />
+        <option value="$PROJECT_DIR$/dist/js/app.js" />
+        <option value="$PROJECT_DIR$/dist/index.html" />
+        <option value="$PROJECT_DIR$/src/js/ipfs_api_index.js" />
+        <option value="$PROJECT_DIR$/dataBase/Ethereum_Connection.js" />
+        <option value="$PROJECT_DIR$/truffle.js" />
+        <option value="$PROJECT_DIR$/src/agent.html" />
+        <option value="$PROJECT_DIR$/dataBase/index.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/contracts/Regulator.sol" />
+        <option value="$PROJECT_DIR$/src/js/app.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="59" />
+    <option name="y" value="-14" />
+    <option name="width" value="1542" />
+    <option name="height" value="915" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="election-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="election-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="election-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="election-master" type="462c0819:PsiDirectoryNode" />
+              <item name="contracts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="election-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="election-master" type="462c0819:PsiDirectoryNode" />
+              <item name="dataBase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="election-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="election-master" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js" />
+      <recent name="$PROJECT_DIR$/dataBase" />
+      <recent name="$PROJECT_DIR$/src/css" />
+      <recent name="$PROJECT_DIR$/contracts" />
+      <recent name="$PROJECT_DIR$/build/contracts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5ab250a-bb1b-4899-8952-af7faa559c30" name="Default" comment="" />
+      <created>1532664471776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532664471776</updated>
+      <workItem from="1532664473057" duration="5230000" />
+      <workItem from="1532681626317" duration="115342000" />
+      <workItem from="1534574081899" duration="1801000" />
+      <workItem from="1534752389776" duration="44193000" />
+      <workItem from="1535362191300" duration="53122000" />
+      <workItem from="1535965248171" duration="37816000" />
+      <workItem from="1536902941065" duration="33249000" />
+      <workItem from="1537506442735" duration="1760000" />
+      <workItem from="1537508846772" duration="83000" />
+      <workItem from="1537508958597" duration="243000" />
+      <workItem from="1537509243254" duration="358000" />
+      <workItem from="1542614977983" duration="24682000" />
+      <workItem from="1542728882003" duration="87531000" />
+      <workItem from="1544243551360" duration="54926000" />
+      <workItem from="1545470193650" duration="1280000" />
+      <workItem from="1545474579940" duration="599000" />
+      <workItem from="1545540961419" duration="23000" />
+      <workItem from="1545541157883" duration="68616000" />
+      <workItem from="1547023706474" duration="6512000" />
+      <workItem from="1548653111088" duration="597000" />
+      <workItem from="1549443786947" duration="12000" />
+      <workItem from="1549444624892" duration="10000" />
+      <workItem from="1549465020424" duration="914000" />
+      <workItem from="1549468569165" duration="3434000" />
+      <workItem from="1551104659421" duration="1323000" />
+      <workItem from="1551106750323" duration="14661000" />
+      <workItem from="1551677276849" duration="22078000" />
+      <workItem from="1552193126426" duration="223000" />
+      <workItem from="1552193370083" duration="18000" />
+      <workItem from="1552193588067" duration="6800000" />
+      <workItem from="1552452155688" duration="7261000" />
+      <workItem from="1552553992517" duration="5358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="600055000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="59" y="-14" width="1542" height="915" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14812377" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.03113325" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bs-config.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/lib.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Insurance.sol" />
+    <entry file="file://$PROJECT_DIR$/build/contracts/Migrations.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/Lottery.json" />
+    <entry file="file://$PROJECT_DIR$/contracts/Lottery.sol" />
+    <entry file="file://$PROJECT_DIR$/dist/js/courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/node_modules/truffle/build/cli.bundled.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="120616" column="67" lean-forward="true" selection-start-line="120616" selection-start-column="67" selection-end-line="120616" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/Election.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2537">
+          <caret line="2700" column="11" selection-start-line="2700" selection-start-column="3" selection-end-line="2700" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Auction.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/OraclizeContract.sol" />
+    <entry file="file://$PROJECT_DIR$/contracts/Mortgage.sol" />
+    <entry file="file://$PROJECT_DIR$/dist/js/sairam.ts" />
+    <entry file="file://$PROJECT_DIR$/dist/js/app1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/courses.sol" />
+    <entry file="file://$PROJECT_DIR$/build/contracts/ClinicalTrial.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/js/truffle-contract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="869" column="2" selection-start-line="869" selection-start-column="2" selection-end-line="869" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery-ui.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/app.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/ipfs_api_index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3358">
+          <caret line="43888" column="37" lean-forward="true" selection-start-line="43888" selection-start-column="37" selection-end-line="43888" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/buffer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="304" selection-start-column="304" selection-end-column="304" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="1133" column="4" selection-start-line="1133" selection-start-column="4" selection-end-line="1133" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="96" column="218230" selection-start-line="96" selection-start-column="218227" selection-end-line="96" selection-end-column="218230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/contracts/Regulator.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1260" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/truffle-contract.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="268" column="86" lean-forward="true" selection-start-line="268" selection-start-column="86" selection-end-line="268" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/web3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20559" selection-start-line="1" selection-start-column="20552" selection-end-line="1" selection-end-column="20559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Migrations.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/truffle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/agent.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/bs58.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/Ethereum_Connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/2_deploy_contracts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/migrations/1_initial_migration.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Election.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4200">
+          <caret line="280" column="3" selection-start-line="280" selection-start-column="3" selection-end-line="280" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="1652" column="1" lean-forward="true" selection-start-line="1652" selection-start-column="1" selection-end-line="1652" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/Regulator.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4354">
+          <caret line="272" column="26" selection-start-line="272" selection-start-column="9" selection-end-line="272" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contracts/ClinicalTrial.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#38374#38378#0" expanded="true" />
+            <element signature="e#38379#38386#0" expanded="true" />
+            <element signature="e#38404#38411#0" expanded="true" />
+            <element signature="e#38411#38415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dataBase/Regulator.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="565" column="27" selection-start-line="565" selection-start-column="12" selection-end-line="565" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

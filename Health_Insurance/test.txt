@@ -1,0 +1,1001 @@
+Sairam
+ 1014  nmap -p 10051 localhost
+ 1015  nmap -p 10010 localhost
+ 1016  nmap -p 10009 localhost
+ 1017  nmap -p 10012 localhost
+ 1018  nmap -p 10015 localhost
+ 1019  kill -9 10009
+ 1020  kill -9 10015
+ 1021  cd ../../
+ 1022  cd ..
+ 1023  ls
+ 1024  ./gradlew deployNodes
+ 1025  cd build/nodes/
+ 1026  ls
+ 1027  cd ..
+ 1028  ls
+ 1029  cd kotlin-build/
+ 1030  ls
+ 1031  cd ..
+ 1032  ls
+ 1033  cd nodes/
+ 1034  ls
+ 1035  cd ..
+ 1036  ls
+ 1037  cd kotlin
+ 1038  ls
+ 1039  cd ..
+ 1040  ls
+ 1041  cd kotlin-source/
+ 1042  ls
+ 1043  cd build/
+ 1044  ls
+ 1045  ./nodes/runnodes
+ 1046  cd ..
+ 1047  ls
+ 1048  cd ..
+ 1049  ls
+ 1050  cd ..
+ 1051  ls
+ 1052  cd bootcamp-cordapp-master/
+ 1053  ls
+ 1054  ./gradlew deployNodesJava
+ 1055  export JAVA_HOME=/usr
+ 1056  ./gradlew deployNodesJava
+ 1057  ls
+ 1058  vi settings.gradle 
+ 1059  ls
+ 1060  vi build.gradle 
+ 1061  ./gradlew deployNodesJava
+ 1062  ls
+ 1063  vi build.gradle 
+ 1064  man mvn
+ 1065  keytool 
+ 1066  -Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true
+ 1067  MAVEN_OPTS="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true"
+ 1068  ./gradlew deployNodesJava
+ 1069  MAVEN_OPTS="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true"
+ 1070  ./gradlew deployNodesJava
+ 1071  MAVEN_OPTS="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true"
+ 1072  ./gradlew deployNodesJava
+ 1073  ./gradlew deployNodesJava --stacktrace
+ 1074  ./gradlew deployNodesJava
+ 1075  sudo dpkg --purge --force-depends ca-certificates-java
+ 1076  sudo apt-get install ca-certificates-java
+ 1077  ./gradlew clean
+ 1078  cd /etc/ca-certificates/
+ 1079  ls
+ 1080  cd update.d/
+ 1081  ls
+ 1082  cd ..
+ 1083  cd
+ 1084  cd 2ndMtech/Corda/bootcamp-cordapp-master/
+ 1085  ls
+ 1086  ./gradlew deployNodesJava --stacktrace
+ 1087  ./gradlew clean
+ 1088  sudo dpkg --purge --force-depends ca-certificates-java
+ 1089  history
+ 1090  ./gradlew clean
+ 1091  g++ linkedlist.cpp 
+ 1092  ./a.out 
+ 1093  g++ linkedlist.cpp 
+ 1094  ./a.out 
+ 1095  g++ linkedlist.cpp 
+ 1096  ./a.out 
+ 1097  g++ linkedlist.cpp 
+ 1098  ./a.out 
+ 1099  g++ linkedlist.cpp 
+ 1100  ./a.out 
+ 1101  ls
+ 1102  vi linkedlist.cpp 
+ 1103  cd
+ 1104  sudo dpkg --purge --force-depends ca-certificates-java
+ 1105  sudo apt-get install ca-certificates-java
+ 1106  ./gradlew clean
+ 1107  cd /etc/ssl/
+ 1108  ls
+ 1109  cd certs/
+ 1110  ls
+ 1111  ll 
+ 1112  cd
+ 1113  cd eclipse-workspace/
+ 1114  cd Strings/
+ 1115  ls
+ 1116  cd src/
+ 1117  ls
+ 1118  scp Game.java nikhil@10.0.3.11: ~
+ 1119  scp Game.java nikhil@10.0.3.11:~
+ 1120  javac Game.java 
+ 1121  java Game 
+ 1122  killall -9 java
+ 1123  cd
+ 1124  vi ~/.mavenrc
+ 1125  source ~/.mavenrc
+ 1126  cd Desktop/
+ 1127  history
+ 1128  sudo scp SecurityAppliance_SSL_CA.pem /etc/ssl/certs/
+ 1129  cd
+ 1130  source ~/.mavenrc 
+ 1131  cd 2ndMtech/Corda/bootcamp-cordapp-master/
+ 1132  ls
+ 1133  ./gradlew deloyNodesJava
+ 1134  ls
+ 1135  vi settings.gradle 
+ 1136  ls
+ 1137  cd gradle/
+ 1138  ls
+ 1139  cd wrapper/
+ 1140  ls
+ 1141  vi gradle-wrapper.properties 
+ 1142  cd ../../
+ 1143  history
+ 1144  ./gradlew deployNodesJava
+ 1145  ./gradlew deployNodesJava --stacktrace
+ 1146  sudo dpkg --purge --force-depends ca-certificates-java
+ 1147  sudo apt-get install ca-certificates-java
+ 1148  ./gradlew clean
+ 1149  ./gradlew clean --scan
+ 1150  ./gradlew clean --debug
+ 1151  MAVEN_OPTS="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true"
+ 1152  ./gradlew clean --debug
+ 1153  ./gradlew clean 
+ 1154  MAVEN_OPTS="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true"
+ 1155  ./gradlew deployNodesJava 
+ 1156  telnet https://ci-artifactory.corda.r3cev.com/artifactory/corda-releases/net/corda/plugins/quasar-utils/3.0.9/quasar-utils-3.0.9.pom
+ 1157  telnet www.google.com
+ 1158  man telnet
+ 1159  telnet https://ci-artifactory.corda.r3cev.com/artifactory/corda-releases/net/corda/plugins/quasar-utils/3.0.9/quasar-utils-3.0.9.pom
+ 1160  vim gradlew
+ 1161  ./gradlew deployNodesJava 
+ 1162  vim gradlew
+ 1163  ./gradlew deployNodesJava 
+ 1164  export JAVA_HOME=/usr
+ 1165  ./gradlew deployNodesJava 
+ 1166  cd build/
+ 1167  ls
+ 1168  cd nodes/
+ 1169  ls
+ 1170  ./runnodes
+ 1171  ssh -X iimtech7@192.168.20.39
+ 1172  cd ~/Desktop/
+ 1173  ls
+ 1174  vim SecurityAppliance_SSL_CA.pem 
+ 1175  ls /usr/local/share/ca-certificates
+ 1176  cp SecurityAppliance_SSL_CA.pem /usr/local/share/ca-certificates
+ 1177  sudo cp SecurityAppliance_SSL_CA.pem /usr/local/share/ca-certificates/
+ 1178  cd SecurityAppliance_SSL_CA.pem /usr/local/share/ca-certificates/
+ 1179  cd  /usr/local/share/ca-certificates/
+ 1180  ls
+ 1181  sudo mv SecurityAppliance_SSL_CA.pem SecurityAppliance_SSL_CA.crt
+ 1182  sudo update-ca-certificates 
+ 1183  cat /etc/ssl/certs/ca-certificates.crt
+ 1184  cd -
+ 1185  cat /etc/ssl/certs/ca-certificates.crt | grep -i < cat SecurityAppliance_SSL_CA.pem 
+ 1186  cat /etc/ssl/certs/ca-certificates.crt | grep -i <  SecurityAppliance_SSL_CA.pem 
+ 1187  cat /etc/ssl/certs/ca-certificates.crt | grep -i  SecurityAppliance_SSL_CA.pem 
+ 1188  man diff
+ 1189  diff -s /etc/ssl/certs/ca-certificates.crt  SecurityAppliance_SSL_CA.pem 
+ 1190  man diff
+ 1191  cd
+ 1192  cd 2ndMtech/Corda/
+ 1193  ls
+ 1194  cd cordapp-template-kotlin-release-V3/
+ 1195  ls
+ 1196  cat README.md 
+ 1197  cd
+ 1198  cd Downloads/
+ 1199  scp CRACKING\ the\ \ CODING\ INTERVIEW\ .pdf nikhil@10.0.3.11:~
+ 1200  gradle build.gradle 
+ 1201  gradle build
+ 1202  export JAVA_HOME=/usr
+ 1203  gradle build
+ 1204  ls
+ 1205  cd build/
+ 1206  ls
+ 1207  cd kotlin-build/
+ 1208  ls
+ 1209  cd ..
+ 1210  ls
+ 1211  cd kotlin
+ 1212  ls
+ 1213  cd ..
+ 1214  cd libs
+ 1215  ls
+ 1216  cd ..
+ 1217  ls
+ 1218  cd ..
+ 1219  ls
+ 1220  cd src/
+ 1221  ls
+ 1222  cd main/
+ 1223  ls
+ 1224  cd kotlin/
+ 1225  cd net/corda/chat/
+ 1226  ls
+ 1227  cd ../../../../
+ 1228  cd ..
+ 1229  ls
+ 1230  run
+ 1231  ls
+ 1232  cd build/
+ 1233  ls
+ 1234  cd ..
+ 1235  ls
+ 1236  cd ..
+ 1237  cd acl-demo/
+ 1238  ls
+ 1239  ./gradlew clean deployNodes
+ 1240  ./gradlew runServer
+ 1241  export JAVA_HOHOME=/usr
+ 1242  ./gradlew runServer
+ 1243  ls
+ 1244  cd build/
+ 1245  ls
+ 1246  cd nodes/
+ 1247  ls
+ 1248  ./runnodes
+ 1249  cd ../../../
+ 1250  cd ..
+ 1251  cd samples-release-V3/
+ 1252  ls
+ 1253  cd blacklist/
+ 1254  ls
+ 1255  ./gradlew uploadBlacklist
+ 1256  export JAVA_HOME=/usr
+ 1257  ./gradlew uploadBlacklist
+ 1258  ./gradlew uploadBlacklist --stacktrace
+ 1259  cd ..
+ 1260  sh build.sh 
+ 1261  h2
+ 1262  h2ph
+ 1263  cd bin/
+ 1264  ls
+ 1265  sh h2.sh 
+ 1266  sh h2.sh &
+ 1267  export JAVA_HOME=/usr
+ 1268  ./gradlew samples:observer-demo:deployNodes
+ 1269  ls
+ 1270  ./gradlew deployNodes
+ 1271  export JAVA_HOME=/usr
+ 1272  ./gradlew deployNodes
+ 1273  ./gradlew deployNodes --stacktrace
+ 1274  cd ..
+ 1275  cd cordapp-tutorial-master/
+ 1276  ls
+ 1277  ./gradlew generateFlowDiagram
+ 1278  export JAVA_HOME=/usr
+ 1279  ./gradlew generateFlowDiagram
+ 1280  ./gradlew deployNodes
+ 1281  cd 2ndMtech/Corda/
+ 1282  ls
+ 1283  cd cordapp-insuranceClaim-master/
+ 1284  ls
+ 1285  cd build/
+ 1286  ls
+ 1287  cd nodes/
+ 1288  ls
+ 1289  cd ..
+ 1290  ls
+ 1291  cd nodes/
+ 1292  ls
+ 1293  cd Applicant/
+ 1294  ls
+ 1295  ;s
+ 1296  cd ..
+ 1297  ls
+ 1298  cd kotlin-source/
+ 1299  ls
+ 1300  cd build/
+ 1301  ls
+ 1302  cd nodes/
+ 1303  ls
+ 1304  ./runnodes
+ 1305  export JAVA_HOME=/usr
+ 1306  ./runnodes
+ 1307  ls
+ 1308  cd ../../
+ 1309  cd ..
+ 1310  ls
+ 1311  cd config/
+ 1312  ;s
+ 1313  ls
+ 1314  cd dev/
+ 1315  ls
+ 1316  corda
+ 1317  corda-webserver
+ 1318  sudo kill -9 $(sudo lsof -t -i:{10009})
+ 1319  lsof
+ 1320  lsof | grep :10009
+ 1321  kill -9 10009
+ 1322  cd 
+ 1323  cd 2ndMtech/Corda/
+ 1324  ls
+ 1325  cd cordapp-template-kotlin-release-V2
+ 1326  ls
+ 1327  ./gradlew deployNodes
+ 1328  cd build/
+ 1329  cd nodes/
+ 1330  ls
+ 1331  lsof -i:10009
+ 1332  lsof -i:10008
+ 1333  kill -9 10008
+ 1334  lsof -i:10008
+ 1335  nmap -p 10008 localhost
+ 1336  kill -9 10008
+ 1337  taskkill -pid 10008
+ 1338  kill 10008
+ 1339  export JAVA_HOME=/usr
+ 1340  ls
+ 1341  cd //
+ 1342  cd
+ 1343  cd 2ndMtech/Corda/cordapp-template-kotlin-release-V
+ 1344  cd 2ndMtech/Corda/cordapp-template-kotlin-release-V2
+ 1345  ls
+ 1346  ./gradlew runTemplateClient
+ 1347  cd
+ 1348  cd Desktop/
+ 1349  ls
+ 1350  cd CProgramming/
+ 1351  ls
+ 1352  cd ..
+ 1353  s
+ 1354  ls
+ 1355  cd c++
+ 1356  ls
+ 1357  vi linkedlist.cpp
+ 1358  cd 
+ 1359  cat ~/.mavenrc 
+ 1360  cd 2ndMtech/Corda/cordapp-template-kotlin-release-V3/
+ 1361  ls
+ 1362  ./gradlew deployNodes
+ 1363  ls
+ 1364  runTemplate
+ 1365  runTemplateClient
+ 1366  cd clients/src/main/kotlin/com/template/webserver/
+ 1367  ls
+ 1368  ./gradlew NodeRPCConnection.kt 
+ 1369  run NodeRPCConnection.kt 
+ 1370  ls
+ 1371  cd ../../../
+ 1372  ls
+ 1373  cd ..
+ 1374  ls
+ 1375  cd resources/
+ 1376  ls
+ 1377  cd ..
+ 1378  ls
+ 1379  cd ..
+ 1380  ls
+ 1381  cd build/
+ 1382  ls
+ 1383  cd kotlin/
+ 1384  ls
+ 1385  cd compileKotlin/
+ 1386  ls
+ 1387  cd
+ 1388  cd 2ndMtech/Corda/
+ 1389  cordapp-template-kotlin-release-V3
+ 1390  cd cordapp-template-kotlin-release-V3
+ 1391  ls
+ 1392  cd build/
+ 1393  ls
+ 1394  cd nodes/
+ 1395  ls
+ 1396  export JAVA_HOME=/usr
+ 1397  ./runnodes
+ 1398  cd ../../
+ 1399  ls
+ 1400  cd ..
+ 1401  cd termDepositCordapp-master/
+ 1402  ls
+ 1403  cat README.md 
+ 1404  cd ..
+ 1405  ls
+ 1406  cd loan-finance-cordapp-master/
+ 1407  ls
+ 1408  cat README.md 
+ 1409  export JAVA_HOME=/usr
+ 1410  ./gradlew deployNodes
+ 1411  ls
+ 1412  cd build/
+ 1413  ls
+ 1414  cd nodes/
+ 1415  ls
+ 1416  cd ..
+ 1417  cd java-source/
+ 1418  ls
+ 1419  cd build/
+ 1420  ls
+ 1421  cd nodes/
+ 1422  ls
+ 1423  ./runnodes
+ 1424  cd ../../../
+ 1425  cd ..
+ 1426  ls
+ 1427  cd cordapp-example/
+ 1428  ls
+ 1429  export JAVA_HOME=/usr
+ 1430  ./gradlew deployNodes
+ 1431  ./gradlew java-source/deployNodes
+ 1432  ls
+ 1433  cd build/
+ 1434  ls
+ 1435  cd nodes/
+ 1436  ls
+ 1437  cd ..
+ 1438  cd java-source/
+ 1439  ls
+ 1440  cd build/
+ 1441  ls
+ 1442  cd nodes/
+ 1443  ls
+ 1444  ./runnodes
+ 1445  nmap java
+ 1446  sudo netstat -lp | grep $PID
+ 1447  sudo netstat -lp | grep 10009
+ 1448  sudo netstat -lp | grep $10009
+ 1449  jps
+ 1450  kill -9 1611
+ 1451  jps
+ 1452  lsof -f 589 | grep ESTABLISHED
+ 1453  ./runnodes
+ 1454  jps
+ 1455  netstat 7650
+ 1456  nmap 7650
+ 1457  man nmap
+ 1458  nmap -p 7650 -localhost
+ 1459  nmap -v iR 7650 -Pn -p 80
+ 1460  nmap -p 7650 localhost
+ 1461  jps
+ 1462  kill -9 1505
+ 1463  kill -9 887
+ 1464  jps
+ 1465  kill -9 21330
+ 1466  kill -9 3820
+ 1467  ./runnodes
+ 1468  cd ../../
+ 1469  ./gradlew deployNodes
+ 1470  cd ..
+ 1471  ./gradlew deployNodes
+ 1472  cd build/nodes/
+ 1473  ls
+ 1474  cd ..
+ 1475  cd java-source/
+ 1476  ls
+ 1477  cd build/
+ 1478  ls
+ 1479  ./nodes/runnodes
+ 1480  ls
+ 1481  cd nodes/
+ 1482  ls
+ 1483  cd PartyA/
+ 1484  ls
+ 1485  cd logs/
+ 1486  ls
+ 1487  vi node-info-gen.log 
+ 1488  scp 12th.pdf MCA_MARKSLIST.pdf provisional_MCA.pdf iimtech7@192.168.20.39:~
+ 1489  cd ..
+ 1490  scp -r all_cards/ iimtech7@192.168.20.39:~
+ 1491  ssh -X iimtech7@192.168.20.39
+ 1492  cd
+ 1493  cd Desktop/
+ 1494  cd Picture1\ v3/
+ 1495  ls
+ 1496  scp 1.jpg 2.jpg iimtech7@192.168.20.39:~
+ 1497  truffle compile
+ 1498  nodejs server.js 
+ 1499  ssh -X iimtech7@192.168.20.39
+ 1500  cd
+ 1501  cd Desktop/WebStorm-182.3911.37/
+ 1502  ls
+ 1503  cd bin/
+ 1504  ls
+ 1505  sh webstorm.sh 
+ 1506  cd bin/
+ 1507  ;s
+ 1508  ls
+ 1509  sh webstorm.sh 
+ 1510  cd ../../WebStorm-183.5429.34
+ 1511  cd ..
+ 1512  cd
+ 1513  cd softwares/WebStorm-183.5429.34\ \(2\)/
+ 1514  ls
+ 1515  cd bin/
+ 1516  sh webstorm.sh 
+ 1517  cd
+ 1518  cd ..
+ 1519  cd We
+ 1520  cd
+ 1521  cd /.WebStorm
+ 1522  cd ..
+ 1523  cd 
+ 1524  cd ../..
+ 1525  cd ./WebStorm
+ 1526  WebStorm2016.1/config/eval/
+ 1527  cdWebStorm2016.1/config/eval/
+ 1528  cd
+ 1529  cd WebStorm2016.1/config/eval/
+ 1530  cd WebStorm-182.5107.19/config/eval/
+ 1531  cd ./WebStorm-182.5107.19/config/eval/
+ 1532  cd WebStorm-182.5107.19/config/eval/
+ 1533  cd Desktop/WebStorm-182.3911.37/
+ 1534  ls
+ 1535  cd bin/
+ 1536  ls
+ 1537  sh webstorm.sh 
+ 1538  cd We
+ 1539  cd
+ 1540  cd ..
+ 1541  cd WebSt
+ 1542  ;s
+ 1543  ls
+ 1544  cd ..
+ 1545  cd /home/shrravan/.WebStorm2018.2/config/eval/
+ 1546  ;s
+ 1547  ls
+ 1548  rm WebStorm182.evaluation.key 
+ 1549  ls
+ 1550  cd
+ 1551  cd ../../../
+ 1552  cd home/shrravan/
+ 1553  rm .WebStorm2018.3/
+ 1554  rm -r .WebStorm2018.3/
+ 1555  rm -r .WebStorm2018.2/
+ 1556  cd ../../../
+ 1557  ./gradlew deployNodes
+ 1558  cd java-source/build/nodes/
+ 1559  ./runnodes
+ 1560  export JAVA_HOME=/usr
+ 1561  ./runnodes
+ 1562  cd ../../
+ 1563  cd ../
+ 1564  ./gradlew deployNodes
+ 1565  ls
+ 1566  ./gradlew deployNodes
+ 1567  ./java-source/build/nodes/runnodes
+ 1568  ./gradlew deployNodes
+ 1569  ./java-source/build/nodes/runnodes
+ 1570  ./gradlew deployNodes
+ 1571  ./java-source/build/nodes/runnodes
+ 1572  ./gradlew deployNodes
+ 1573  ./gradlew runExampleClientRPCJava
+ 1574  javac java-source/src/main/java/com/example/client/ExampleClientRPC.java 
+ 1575  ./gradlew runExampleClientRPCJava
+ 1576  javac java-source/src/main/java/com/example/client/ExampleClientRPC.java 
+ 1577  ./gradlew runExampleClientRPCJava
+ 1578  export JAVA_HOME=/uusr
+ 1579  ./gradlew deployNodes
+ 1580  export JAVA_HOME=/usr
+ 1581  ./gradlew deployNodes
+ 1582  cd ..
+ 1583  ls
+ 1584  cd bootcamp-cordapp-master/
+ 1585  ls
+ 1586  ./gradlew deployNodes
+ 1587  ls
+ 1588  cd build/
+ 1589  ls
+ 1590  cd nodes/
+ 1591  ls
+ 1592  ./runnodes
+ 1593  cd ../../
+ 1594  cd ..
+ 1595  ls
+ 1596  cd cordapp-insuranceClaim-master/
+ 1597  export JAVA_HOME=/usr
+ 1598  ls
+ 1599  ./gradlew deployNodes
+ 1600  ls
+ 1601  cd build/
+ 1602  ls
+ 1603  cd nodes/
+ 1604  ls
+ 1605  cd ../../
+ 1606  ls
+ 1607  cd kotlin-source/
+ 1608  ls
+ 1609  cd build/
+ 1610  ls
+ 1611  cd nodes/
+ 1612  ls
+ 1613  ./runnodes
+ 1614  cd ../../
+ 1615  cd ../
+ 1616  ls
+ 1617  ./gradlew deployNodes
+ 1618  cd build/
+ 1619  ls
+ 1620  cd nodes/
+ 1621  ls
+ 1622  cd ..
+ 1623  cd kotlin-source/
+ 1624  ls
+ 1625  cd build/
+ 1626  ls
+ 1627  cd nodes/
+ 1628  ls
+ 1629  ./runnodes
+ 1630  cd ../../../
+ 1631  cd ..
+ 1632  cd cordapp-example/
+ 1633  ls
+ 1634  cd ..
+ 1635  cd cordapp-tutorial-master/
+ 1636  ls
+ 1637  ./gradlew deployNodes
+ 1638  cd ..
+ 1639  cd cordapp-example/
+ 1640  ls
+ 1641  ./gradlew deployNodes
+ 1642  ls
+ 1643  cd java-source/
+ 1644  ls
+ 1645  cd build/
+ 1646  ls
+ 1647  cd nodes/
+ 1648  ls
+ 1649  ./runnodes
+ 1650  cd ../../
+ 1651  cd ..
+ 1652  cd kotlin-source/
+ 1653  ls
+ 1654  cd build/
+ 1655  ks
+ 1656  ls
+ 1657  cd nodes/
+ 1658  ls
+ 1659  ./runnodes
+ 1660  cd ../../
+ 1661  ls
+ 1662  cd ..
+ 1663  ./gradlew deployNodes
+ 1664  cd java-source/
+ 1665  ls
+ 1666  cd build/
+ 1667  ls
+ 1668  cd nodes/
+ 1669  ls
+ 1670  ./runnodes
+ 1671  cd ..
+ 1672  ls
+ 1673  cd resources/
+ 1674  ls
+ 1675  cd main/
+ 1676  ls
+ 1677  cd ..
+ 1678  ...
+ 1679  cd ../../
+ 1680  ls
+ 1681  cd src/main/java/com/example/client/
+ 1682  ls
+ 1683  cd 
+ 1684  cd 2ndMtech/Corda/cordapp-example/
+ 1685  ./gradlew runExampleClinetRPC
+ 1686  ./gradlew java-source/src/main/java/com/example/client/runExampleClinetRPC
+ 1687  ./gradlew java-source/src/main/java/com/example/client/runExampleClinetRPC --scan
+ 1688  ./gradlew java-source/src/main/java/com/example/client/ExampleClientRPC.java 
+ 1689  ./gradlew java-source/src/main/java/com/example/client/runExampleClientRPCJava
+ 1690  ./gradlew runExampleClientRPCJava
+ 1691  ./gradlew deployNodes
+ 1692  cd java-source/build/nodes/
+ 1693  ls
+ 1694  ./runnodes
+ 1695  ./gradlew runExampleClientRPCJava
+ 1696  ./gradlew runnodes
+ 1697  ./runnodes
+ 1698  cd
+ 1699  cd 2ndMtech/Insurance
+ 1700  ls
+ 1701  cd election-master/
+ 1702  ls
+ 1703  nodejs server.js 
+ 1704  testrpc -m "thunder drive number pitch aim harvest walnut thought weasel skill melt weather"
+ 1705  cd 
+ 1706  cd 2ndMtech/Insurance
+ 1707  cd election-master/
+ 1708  nodejs server.js 
+ 1709  cd ../../
+ 1710  ls
+ 1711  ./gradlew deployJavaNodes
+ 1712  ./gradlew deployNodesJava 
+ 1713  ls
+ 1714  cd build/
+ 1715  ls
+ 1716  cd nodes/
+ 1717  ls
+ 1718  ./runnodes
+ 1719  export JAVA_HOME=/usr
+ 1720  ./runnodes
+ 1721  cd ..
+ 1722  ls
+ 1723  cd src/
+ 1724  ls
+ 1725  cd ..
+ 1726  ls
+ 1727  ./gradlew deployNodesJava 
+ 1728  cd build/nodes/
+ 1729  ls
+ 1730  ./runnodes
+ 1731  cd ../../
+ 1732  ls
+ 1733  cd ..
+ 1734  ls
+ 1735  cd cordapp-template-kotlin-release-V2
+ 1736  ls
+ 1737  cd ..
+ 1738  cd cordapp-template-kotlin-release-V3/
+ 1739  ls
+ 1740  cat README.md 
+ 1741  cd ..
+ 1742  cd cordapp-insuranceClaim-master/
+ 1743  ls
+ 1744  ./grdlew deployNodes
+ 1745  ./gradlew deployNodes
+ 1746  cd build/
+ 1747  ls
+ 1748  cd nodes/
+ 1749  ls
+ 1750  cd Applicant/
+ 1751  ls
+ 1752  cd ..
+ 1753  ls
+ 1754  cd ..
+ 1755  ls
+ 1756  cd kotlin-source/build/nodes/
+ 1757  ls
+ 1758  ./runnodes
+ 1759  cd /../../
+ 1760  cd
+ 1761  cd 2ndMtech/Corda/termDepositCordapp-master/
+ 1762  ls
+ 1763  export JAVA_HOME=/usr
+ 1764  ./gradlew deployNodes
+ 1765  sudo ./gradlew deployNodes
+ 1766  ls
+ 1767  cd gui/
+ 1768  ls
+ 1769  ./gradlew
+ 1770  cd ..
+ 1771  ./gradlew
+ 1772  ls -l
+ 1773  sudo ./gradlew
+ 1774  cd lib/
+ 1775  ls
+ 1776  cd ..
+ 1777  ls
+ 1778  cd ..
+ 1779  cd marge-master/
+ 1780  ls
+ 1781  cat README.md 
+ 1782  cd /cordapp/src/test/kotlin/net/cordaclub/marge/
+ 1783  cd /cordapp/src/test/kotlin/net/cordaclub
+ 1784  cd cordapp/src/test/kotlin/net/cordaclub
+ 1785  ls
+ 1786  cd marge
+ 1787  ls
+ 1788  cd kotlinc/
+ 1789  ls
+ 1790  cd bin/
+ 1791  ls
+ 1792  ./kotlin
+ 1793  ./kotlin ../../NodeDriver.kt 
+ 1794  ls
+ 1795  ./kotlincd ../../NodeDriver.kt 
+ 1796  ./kotlinc ../../NodeDriver.kt 
+ 1797  kotlin
+ 1798  ./kotlinc
+ 1799  ./kotlinc ../../NodeDriver.kt 
+ 1800  ./kotlin ../../NodeDriver.kt 
+ 1801  ./kotlinc
+ 1802  ktc
+ 1803  ls
+ 1804  ./kotlinc-jvm 
+ 1805  cd
+ 1806  ssh -X iimtech7@192.168.20.39
+ 1807  export JAVA_HOME=/usr
+ 1808  ./gradlew deployNodes
+ 1809  cd ..
+ 1810  cd bootcamp-cordapp-master/
+ 1811  ls
+ 1812  export JAVA_HOME=/usr
+ 1813  ./gradlew deployNodesJava
+ 1814  cd build/nodes/
+ 1815  ./runnodes
+ 1816  ls
+ 1817  cd ../../
+ 1818  ls
+ 1819  cd ..
+ 1820  ls
+ 1821  cd cordapp-template-kotlin-release-V3/
+ 1822  ls
+ 1823  ./gradlew deployNodes
+ 1824  export JAVA_HOME=/usr
+ 1825  cd build/
+ 1826  ls
+ 1827  cd nodes/
+ 1828  ls
+ 1829  ./runnodes
+ 1830  cdd ..
+ 1831  cd ..
+ 1832  ls
+ 1833  cd ..
+ 1834  ls
+ 1835  cd clients/
+ 1836  ls
+ 1837  cd src/main/
+ 1838  ls
+ 1839  cd kotlin/
+ 1840  ls
+ 1841  cd com/template/webserver/
+ 1842  ls
+ 1843  vi Server.kt 
+ 1844  cd 
+ 1845  cd 2ndMtech/Corda/
+ 1846  ls
+ 1847  cd marge-master/
+ 1848  ls
+ 1849  export JAVA_HOME=/usr
+ 1850  ./gradlew deployNodes
+ 1851  ./cordapp/src/test/kotlin/net/cordaclub/marge/
+ 1852  ls
+ 1853  /cordapp/src/test/kotlin/net/cordaclub/marge/
+ 1854  cordapp/src/test/kotlin/net/cordaclub/marge/
+ 1855  cd cordapp/src/test/kotlin/net/cordaclub/marge/
+ 1856  ls
+ 1857  run
+ 1858  kotlin
+ 1859  sudo apt install kotlin
+ 1860  ./gradlew run
+ 1861  cd ~/2ndMtech/Corda/marge-master/
+ 1862  ls
+ 1863  cd build/
+ 1864  ls
+ 1865  cd nodes/
+ 1866  ls
+ 1867  ./runnodes
+ 1868  sudo apt install kotlin
+ 1869  sdk
+ 1870  sdk install kotlin
+ 1871  sdk update
+ 1872  sdk offline
+ 1873  sdk update
+ 1874  sdk install kotlin
+ 1875  cd ..
+ 1876  ls
+ 1877  cd ..
+ 1878  ls
+ 1879  cd loan-finance-cordapp-master/
+ 1880  export JAVA_HOME=/usr
+ 1881  ls
+ 1882  cat README.md 
+ 1883  export JAVA_HOME=/usr
+ 1884  ./gradlew deployNodes
+ 1885  ls
+ 1886  cd build/
+ 1887  ls
+ 1888  cd nodes/
+ 1889  ls
+ 1890  cd ..
+ 1891  ls
+ 1892  cd java-source/
+ 1893  ls
+ 1894  cd build/
+ 1895  ls
+ 1896  cd nodes/
+ 1897  ls
+ 1898  ./runnodes
+ 1899  cd ../../../
+ 1900  ls
+ 1901  cd ..
+ 1902  ls
+ 1903  cd bootcamp-cordapp-master/
+ 1904  ls
+ 1905  cd src/
+ 1906  ls
+ 1907  cd main/
+ 1908  ls
+ 1909  cd java/java_bootcamp/
+ 1910  ls
+ 1911  vi TokenIssueFlow.java 
+ 1912  h2
+ 1913  history
+ 1914  ./gradlew ExampleClientRPC
+ 1915  cd java-source/
+ 1916  ls
+ 1917  ./gradlew ExampleClientRPC
+ 1918  cd ..
+ 1919  ./gardlew ExampleClientRPC
+ 1920  ls
+ 1921  cd java-source/
+ 1922  ls
+ 1923  cd build/
+ 1924  ls
+ 1925  cd ..
+ 1926  l
+ 1927  ls
+ 1928  cd ..
+ 1929  ls
+ 1930  history
+ 1931  ./gradlew java-source/src/main/java/com/example/client/ExampleClientRPC.java 
+ 1932  ./gradlew ExampleClientRPC
+ 1933  ./gradlew ExampleClientRPC --stacktrace
+ 1934  ./gradlew runExampleClientRPCJava
+ 1935  cd
+ 1936  cd 2ndMtech/
+ 1937  ls
+ 1938  cd Insurance
+ 1939  ls
+ 1940  cd election-master/
+ 1941  ls
+ 1942  testrpc -m "thunder drive number pitch aim harvest walnut thought weasel skill melt weather"
+ 1943  cd eclipse-workspace/
+ 1944  ipfs daemon
+ 1945  nodejs server.js 
+ 1946  cd 2ndMtech/Corda/cordapp-example/
+ 1947  ls
+ 1948  cd build/
+ 1949  ls
+ 1950  cd ..
+ 1951  ls
+ 1952  export JAVA_HOME=/usr
+ 1953  ls
+ 1954  ./gradlew deployNodes
+ 1955  cd ..
+ 1956  cd cordapp-
+ 1957  cd cordapp-example/
+ 1958  ls
+ 1959  cd java-source/
+ 1960  cd build/
+ 1961  ls
+ 1962  cd nodes/
+ 1963  ls
+ 1964  ./runnodes
+ 1965  history
+ 1966  cd ../../.
+ 1967  cd ../
+ 1968  ./gradlew ExampleClientRPC
+ 1969  cd java-source/
+ 1970  ls
+ 1971  history
+ 1972  ls
+ 1973  cd src/
+ 1974  ls
+ 1975  cd main/
+ 1976  ls
+ 1977  cd java/
+ 1978  ls
+ 1979  cd ../../../
+ 1980  ls
+ 1981  cd ..
+ 1982  ls
+ 1983  firefox
+ 1984  ssh -X iimtech7@192.168.20.39
+ 1985  scp -r Files_Data_Generation/ akhil@10.0.3.60:~
+ 1986  scp -r Files_Data_Generation/ dasugauthamsreeram@10.0.3.63:~
+ 1987  scp WORKING.PNG iimtech7@192.168.20.39:~
+ 1988  scp twoSideTemplate.zip nikhil@10.0.3.11:~
+ 1989  scp escorts.JPG iimtech7@192.168.20.39:~
+ 1990  scp BIGCOMP.PNG iimtech7@192.168.20.39:~
+ 1991  scp 1.jpg 2.jpg iimtech7@192.168.20.39:~
+ 1992  cd
+ 1993  cd Pictures/
+ 1994  ls
+ 1995  scp adding_roles.png iimtech7@192.168.20.39:~
+ 1996  scp adding_roles1.png iimtech7@192.168.20.39:~
+ 1997  scp validation_new_policy.png  iimtech7@192.168.20.39:~
+ 1998  scp claim_processing_1.png   iimtech7@192.168.20.39:~
+ 1999  ipfs-daemon
+ 2000  ipfs-deamon
+ 2001  ipfs-daemon
+ 2002  ipfs-deamon
+ 2003* 
+ 2004  cd 2ndMtech/Insurance/election-master/
+ 2005  ipfs-deamon
+ 2006  history
+ 2007  cat "Sairam" >> test.txt
+ 2008  touch test.txt
+ 2009  cat "Sairam" >> test.txt
+ 2010  echo "Sairam" >> test.txt
+ 2011  cat test.txt
+ 2012  histor >> test.txt
+ 2013  history >> test.txt
